@@ -1,6 +1,10 @@
-# meteo
+# Flutter Planets Design
 
 A new Flutter application.
+
+## I’ve picked up a nice sample on a Space Travel book app from Vijay Verma: https://www.uplabs.com/posts/space-travel-ui. 
+
+![alt text](https://sergiandreplace.com/img/planets-preview.png)
 
 ## Getting Started
 
